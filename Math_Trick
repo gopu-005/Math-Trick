@@ -1,0 +1,11 @@
+import random
+a = random.randint(0,20)
+b = random.randint(0,15)
+c = random.randint(0,10)
+print('!...<DISCLAIMER>...!')
+print('If ur week in math kindly use calculator')
+print('Think of a number between 0 and 10')
+print(f'Add {a} to the number')
+print(f'Multiply it by {b}')
+print(f'subtract {c} from the product')
+print(a*b-c,'is the number u got atlast')
